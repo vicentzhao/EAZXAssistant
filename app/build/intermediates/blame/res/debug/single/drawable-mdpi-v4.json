@@ -44,12 +44,12 @@
         "source": "D:\\GitGroup\\ElevatorAssistant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
     },
     {
-        "merged": "D:\\GitGroup\\ElevatorAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\indicator_arrow.png",
-        "source": "D:\\GitGroup\\ElevatorAssistant\\app\\build\\intermediates\\exploded-aar\\ElevatorAssistant\\AndroidPullToRefershLibrary\\unspecified\\res\\drawable-mdpi-v4\\indicator_arrow.png"
-    },
-    {
         "merged": "D:\\GitGroup\\ElevatorAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png",
         "source": "D:\\GitGroup\\ElevatorAssistant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\GitGroup\\ElevatorAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\indicator_arrow.png",
+        "source": "D:\\GitGroup\\ElevatorAssistant\\app\\build\\intermediates\\exploded-aar\\ElevatorAssistant\\AndroidPullToRefershLibrary\\unspecified\\res\\drawable-mdpi-v4\\indicator_arrow.png"
     },
     {
         "merged": "D:\\GitGroup\\ElevatorAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",

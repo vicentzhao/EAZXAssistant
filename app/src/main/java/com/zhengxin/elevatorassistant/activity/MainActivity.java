@@ -34,7 +34,7 @@ import butterknife.OnClick;
 public class MainActivity extends PullRefreshRootActivity {
 
     @Bind(R.id.tv_btn)
-    TextView tvBtn;
+    TextView tvBtn; //测试提交
     @Bind(R.id.recViewforceshi)
     PullToRefreashRecylcleView recViewforceshi;
     @Bind(R.id.tv_delete)
@@ -60,7 +60,6 @@ public class MainActivity extends PullRefreshRootActivity {
             public void onItemClick(View view, int position) {
                 ToastUtil.showShort(mDatas.get(position).getName());
             }
-
             @Override
             public void onItemLongClick(View view, int position) {
 

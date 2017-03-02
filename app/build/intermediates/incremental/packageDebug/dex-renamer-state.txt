@@ -1,4 +1,7 @@
-#Thu Mar 02 08:58:58 CST 2017
-base.0=D\:\\GitGroup\\ElevatorAssistant\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+#Thu Mar 02 15:21:32 CST 2017
+base.0=D\:\\GitGroup\\ElevatorAssistant\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_4e910d7a526300446143147c67163f222cbe9cfb
+renamed.1=classes2.dex
 renamed.0=classes.dex
-file.0=D\:\\GitGroup\\ElevatorAssistant\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+file.1=D\:\\GitGroup\\ElevatorAssistant\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_63986f7ca4dc89855c4aee13cfb498f0b4b50dd8\\classes.dex
+base.1=D\:\\GitGroup\\ElevatorAssistant\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_63986f7ca4dc89855c4aee13cfb498f0b4b50dd8
+file.0=D\:\\GitGroup\\ElevatorAssistant\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_4e910d7a526300446143147c67163f222cbe9cfb\\classes.dex

@@ -36,12 +36,12 @@
         "source": "D:\\GitGroup\\ElevatorAssistant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
-        "merged": "D:\\GitGroup\\ElevatorAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kprogresshud_spinner.png",
-        "source": "D:\\GitGroup\\ElevatorAssistant\\app\\build\\intermediates\\exploded-aar\\ElevatorAssistant\\EALibrary\\unspecified\\res\\drawable\\kprogresshud_spinner.png"
-    },
-    {
         "merged": "D:\\GitGroup\\ElevatorAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
         "source": "D:\\GitGroup\\ElevatorAssistant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\GitGroup\\ElevatorAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kprogresshud_spinner.png",
+        "source": "D:\\GitGroup\\ElevatorAssistant\\app\\build\\intermediates\\exploded-aar\\ElevatorAssistant\\EALibrary\\unspecified\\res\\drawable\\kprogresshud_spinner.png"
     },
     {
         "merged": "D:\\GitGroup\\ElevatorAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bga_banner_selector_point_hollow.xml",
@@ -64,16 +64,12 @@
         "source": "D:\\GitGroup\\ElevatorAssistant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
     },
     {
-        "merged": "D:\\GitGroup\\ElevatorAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bga_refresh_loding.xml",
-        "source": "D:\\GitGroup\\ElevatorAssistant\\app\\build\\intermediates\\exploded-aar\\cn.bingoogolapple\\bga-refreshlayout\\1.1.7\\res\\drawable\\bga_refresh_loding.xml"
+        "merged": "D:\\GitGroup\\ElevatorAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_pickerview_btn.xml",
+        "source": "D:\\GitGroup\\ElevatorAssistant\\app\\build\\intermediates\\exploded-aar\\com.bigkoo\\pickerview\\2.1.0\\res\\drawable\\selector_pickerview_btn.xml"
     },
     {
         "merged": "D:\\GitGroup\\ElevatorAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
         "source": "D:\\GitGroup\\ElevatorAssistant\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_seekbar_track_material.xml"
-    },
-    {
-        "merged": "D:\\GitGroup\\ElevatorAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_pickerview_btn.xml",
-        "source": "D:\\GitGroup\\ElevatorAssistant\\app\\build\\intermediates\\exploded-aar\\com.bigkoo\\pickerview\\2.1.0\\res\\drawable\\selector_pickerview_btn.xml"
     },
     {
         "merged": "D:\\GitGroup\\ElevatorAssistant\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_top.xml",
