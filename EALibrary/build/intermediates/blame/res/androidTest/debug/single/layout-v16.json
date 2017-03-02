@@ -2,5 +2,9 @@
     {
         "merged": "D:\\GitGroup\\ElevatorAssistant\\EALibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v16\\notification_template_custom_big.xml",
         "source": "D:\\GitGroup\\ElevatorAssistant\\EALibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout-v16\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\GitGroup\\EAZXAssistant\\EALibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v16\\notification_template_custom_big.xml",
+        "source": "D:\\GitGroup\\EAZXAssistant\\EALibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout-v16\\notification_template_custom_big.xml"
     }
 ]

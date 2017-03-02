@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AndroidPullToRefershLibrary/AndroidPullToRefershLibrary.iml" filepath="$PROJECT_DIR$/AndroidPullToRefershLibrary/AndroidPullToRefershLibrary.iml" />
       <module fileurl="file://$PROJECT_DIR$/EALibrary/EALibrary.iml" filepath="$PROJECT_DIR$/EALibrary/EALibrary.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ElevatorAssistant.iml" filepath="$PROJECT_DIR$/ElevatorAssistant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EAZXAssistant.iml" filepath="$PROJECT_DIR$/EAZXAssistant.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

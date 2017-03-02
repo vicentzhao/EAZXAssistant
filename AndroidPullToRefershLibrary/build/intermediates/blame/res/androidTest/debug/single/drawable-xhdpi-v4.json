@@ -8,6 +8,18 @@
         "source": "D:\\GitGroup\\ElevatorAssistant\\AndroidPullToRefershLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\default_ptr_rotate.png"
     },
     {
+        "merged": "D:\\GitGroup\\EAZXAssistant\\AndroidPullToRefershLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\default_ptr_flip.png",
+        "source": "D:\\GitGroup\\EAZXAssistant\\AndroidPullToRefershLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\default_ptr_flip.png"
+    },
+    {
+        "merged": "D:\\GitGroup\\EAZXAssistant\\AndroidPullToRefershLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\indicator_arrow.png",
+        "source": "D:\\GitGroup\\EAZXAssistant\\AndroidPullToRefershLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\indicator_arrow.png"
+    },
+    {
+        "merged": "D:\\GitGroup\\EAZXAssistant\\AndroidPullToRefershLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\default_ptr_rotate.png",
+        "source": "D:\\GitGroup\\EAZXAssistant\\AndroidPullToRefershLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\default_ptr_rotate.png"
+    },
+    {
         "merged": "D:\\GitGroup\\ElevatorAssistant\\AndroidPullToRefershLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\default_ptr_flip.png",
         "source": "D:\\GitGroup\\ElevatorAssistant\\AndroidPullToRefershLibrary\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\default_ptr_flip.png"
     }

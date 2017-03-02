@@ -2,5 +2,9 @@
     {
         "merged": "D:\\GitGroup\\ElevatorAssistant\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
         "source": "D:\\GitGroup\\ElevatorAssistant\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\GitGroup\\EAZXAssistant\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "D:\\GitGroup\\EAZXAssistant\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     }
 ]
