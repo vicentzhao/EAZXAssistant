@@ -4,7 +4,15 @@
         "source": "D:\\GitGroup\\ElevatorAssistant\\AndroidPullToRefershLibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\pull_to_refresh_header_horizontal.xml"
     },
     {
+        "merged": "D:\\GitGroup\\EAZXAssistant\\AndroidPullToRefershLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "D:\\GitGroup\\EAZXAssistant\\AndroidPullToRefershLibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\pull_to_refresh_header_vertical.xml"
+    },
+    {
         "merged": "D:\\GitGroup\\ElevatorAssistant\\AndroidPullToRefershLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\pull_to_refresh_header_vertical.xml",
         "source": "D:\\GitGroup\\ElevatorAssistant\\AndroidPullToRefershLibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "D:\\GitGroup\\EAZXAssistant\\AndroidPullToRefershLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\pull_to_refresh_header_horizontal.xml",
+        "source": "D:\\GitGroup\\EAZXAssistant\\AndroidPullToRefershLibrary\\build\\intermediates\\bundles\\debug\\res\\layout\\pull_to_refresh_header_horizontal.xml"
     }
 ]

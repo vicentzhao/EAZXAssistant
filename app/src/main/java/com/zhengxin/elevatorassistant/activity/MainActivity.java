@@ -34,7 +34,7 @@ import butterknife.OnClick;
 public class MainActivity extends PullRefreshRootActivity {
 
     @Bind(R.id.tv_btn)
-    TextView tvBtn; //测试提交
+    TextView tvBtn; //测试提交xinglong王兴隆
     @Bind(R.id.recViewforceshi)
     PullToRefreashRecylcleView recViewforceshi;
     @Bind(R.id.tv_delete)

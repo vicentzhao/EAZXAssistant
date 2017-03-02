@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="D:\GitGroup\ElevatorAssistant\EALibrary\src\main\assets"/><source path="D:\GitGroup\ElevatorAssistant\EALibrary\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="D:\GitGroup\ElevatorAssistant\EALibrary\src\debug\assets"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="D:\GitGroup\EAZXAssistant\EALibrary\src\main\assets"/><source path="D:\GitGroup\EAZXAssistant\EALibrary\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="D:\GitGroup\EAZXAssistant\EALibrary\src\debug\assets"/></dataSet></merger>
