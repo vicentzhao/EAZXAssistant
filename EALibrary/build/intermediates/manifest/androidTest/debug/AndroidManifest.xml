@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.zhengxin.ealibrary.test" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="25" />
+
+    <instrumentation
+        android:name="android.support.test.runner.AndroidJUnitRunner"
+        android:functionalTest="false"
+        android:handleProfiling="false"
+        android:label="Tests for com.zhengxin.ealibrary.test"
+        android:targetPackage="com.zhengxin.ealibrary.test" />
+
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:label="@string/app_name"
+        android:supportsRtl="true" >
+        <uses-library android:name="android.test.runner" />
+
+        <service
+            android:name="com.code19.library.service.DownloadService"
+            android:enabled="true"
+            android:exported="true" >
+        </service>
+    </application>
+
+</manifest>

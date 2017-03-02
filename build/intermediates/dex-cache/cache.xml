@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\GitGroup\ElevatorAssistant\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="D:\GitGroup\ElevatorAssistant\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.1_e40fa1134f18a852f62f62f53d06d689e7be1b50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GitGroup\ElevatorAssistant\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="D:\GitGroup\ElevatorAssistant\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.1_6bcd0be2a9839c9b808a6a62eb06212e80ab40fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GitGroup\ElevatorAssistant\app\build\intermediates\exploded-aar\org.xutils\xutils\3.3.40\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e10132f12da0143881647ccbb4cedb494fe0ba41">
+        <dex dex="D:\GitGroup\ElevatorAssistant\app\build\intermediates\pre-dexed\debug\org.xutils-xutils-3.3.40_f56118b353cc259707ca984c0002638b8f1099be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GitGroup\ElevatorAssistant\app\build\intermediates\exploded-aar\cn.bingoogolapple\bga-banner\2.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1a993ca216cd2bbe220b2540b1297ac22b1d8e35">
+        <dex dex="D:\GitGroup\ElevatorAssistant\app\build\intermediates\pre-dexed\debug\cn.bingoogolapple-bga-banner-2.1.1_245cf1e591d064e7463ecc65a48323bfb28fecd2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GitGroup\ElevatorAssistant\app\build\intermediates\exploded-aar\com.code19.library\library\0.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cf21e64674afd0cdc2ebbb659c6540c5cb219cd6">
+        <dex dex="D:\GitGroup\ElevatorAssistant\app\build\intermediates\pre-dexed\debug\com.code19.library-library-0.1.1_236377d822b954312c2bad042aa9347edacac0c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="D:\GitGroup\ElevatorAssistant\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.1_a054707604679140a663dbc4761939207049e093.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GitGroup\ElevatorAssistant\app\build\intermediates\exploded-aar\ElevatorAssistant\AndroidPullToRefershLibrary\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f0ad9e5799c75109e27e4f197fb3406dc82633e3">
+        <dex dex="D:\GitGroup\ElevatorAssistant\app\build\intermediates\pre-dexed\debug\ElevatorAssistant-AndroidPullToRefershLibrary-unspecified_cbd0bba1246fdef4c5fb6e0cdaa0061f57b94048.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GitGroup\ElevatorAssistant\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="D:\GitGroup\ElevatorAssistant\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.1.1_ef7a253a2a2d0a58980cb4b66e42842506153ea9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="D:\GitGroup\ElevatorAssistant\app\build\intermediates\pre-dexed\debug\butterknife-7.0.1_fc861cbde294a7e4a9efd57936d766cb077b60e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GitGroup\ElevatorAssistant\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="D:\GitGroup\ElevatorAssistant\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.1_aca0895f07bfcd0257e425c738f159b547116793.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GitGroup\ElevatorAssistant\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="D:\GitGroup\ElevatorAssistant\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.1_20efce8e3652e948d6cdfa1fcb494de09a0728db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GitGroup\ElevatorAssistant\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="D:\GitGroup\ElevatorAssistant\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.1_314619d6f7e8421e56bed656fe611a9c1eb812d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GitGroup\ElevatorAssistant\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\GitGroup\ElevatorAssistant\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.1_8693e3bc55525974b9229c5a4775d5dff13da2a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.0\c4ba5371a29ac9b2ad6129b1d39ea38750043eff\gson-2.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="D:\GitGroup\ElevatorAssistant\app\build\intermediates\pre-dexed\debug\gson-2.8.0_eca52502deb48db964b5e6d39d16c5eaa7bb0998.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GitGroup\ElevatorAssistant\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="D:\GitGroup\ElevatorAssistant\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.1_e6d3d290565837e8c3e72855d704a83a5af6a13a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GitGroup\ElevatorAssistant\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="D:\GitGroup\ElevatorAssistant\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.1_ba41c984a9b753415b58f341e287d440991e5207.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GitGroup\ElevatorAssistant\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="D:\GitGroup\ElevatorAssistant\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.1_4cf2d96007ae7f04951933a808146b5f562ec708.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GitGroup\ElevatorAssistant\app\build\intermediates\exploded-aar\com.bigkoo\pickerview\2.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="785e7795aa8c3df729ae5d6bb6fc7e4428108332">
+        <dex dex="D:\GitGroup\ElevatorAssistant\app\build\intermediates\pre-dexed\debug\com.bigkoo-pickerview-2.1.0_3b233afa3ea2f054531f1052776296e99b907cf3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GitGroup\ElevatorAssistant\app\build\intermediates\exploded-aar\ElevatorAssistant\EALibrary\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2d70d540c1c1d9d4ca4a80a520aac0e8673d0445">
+        <dex dex="D:\GitGroup\ElevatorAssistant\app\build\intermediates\pre-dexed\debug\ElevatorAssistant-EALibrary-unspecified_c2c24868e7b82a53c65fc848abdfd55e14a7577d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\GitGroup\ElevatorAssistant\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="D:\GitGroup\ElevatorAssistant\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.1_d104c8f35f7310f688fef1e1c2d43f82921ae7fd.jar" />
+    </item>
+
+</items>

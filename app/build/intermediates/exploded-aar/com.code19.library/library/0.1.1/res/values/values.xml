@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="alipayerr">无法跳转到支付宝，请检查您是否安装了支付宝!</string>
+    <string name="wechaterr">无法跳转到微信，请检查您是否安装了微信!</string>
+</resources>
